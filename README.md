@@ -340,6 +340,8 @@ This service translates any document on some language to Russian
 
 ### Сервер с GPU Nvidia 4090, VM = 24Gb
 
+Запись с демонстрацией работы сервиса доступна по [ссылке](https://drive.google.com/file/d/1HACVt8pPjjaivMyLk7k13JpX6DvBofMf/view?usp=sharing)
+
 ## **Project Organization**
 
 ```
