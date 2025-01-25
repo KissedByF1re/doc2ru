@@ -97,10 +97,9 @@
 ---
 
 ## 4. Архитектура
-![Архитектура решения]([https://example.com/architecture.png](https://drive.google.com/drive/folders/1JTnqUkkW9W8Xes_k-s0Pl5_aGHTnzgh8?dmr=1&ec=wgc-drive-hero-goto))
+- Презентация проекта с подробной архитектурой доступна по [ссылке](https://docs.google.com/presentation/d/1lZ9PASf-2Ngk5St_LYpK3-K-gRitVTxCkNtE6os5dzk/edit?usp=sharing)
 - Сервер: Nvidia 3090 GPU, 24 GB RAM.
-
-Запись с демонстрацией работы сервиса доступна по [ссылке](https://drive.google.com/file/d/1HACVt8pPjjaivMyLk7k13JpX6DvBofMf/view?usp=sharing)
+- Запись с демонстрацией работы сервиса доступна по [ссылке](https://drive.google.com/file/d/1HACVt8pPjjaivMyLk7k13JpX6DvBofMf/view?usp=sharing)
 
 ## **Project Organization**
 
