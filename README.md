@@ -97,7 +97,7 @@
 ---
 
 ## 4. Архитектура
-
+![Архитектура решения]([https://example.com/architecture.png](https://drive.google.com/drive/folders/1JTnqUkkW9W8Xes_k-s0Pl5_aGHTnzgh8?dmr=1&ec=wgc-drive-hero-goto))
 - Сервер: Nvidia 3090 GPU, 24 GB RAM.
 
 Запись с демонстрацией работы сервиса доступна по [ссылке](https://drive.google.com/file/d/1HACVt8pPjjaivMyLk7k13JpX6DvBofMf/view?usp=sharing)
